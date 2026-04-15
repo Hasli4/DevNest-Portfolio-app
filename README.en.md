@@ -36,9 +36,14 @@ This project is useful for:
 
 ---
 
-## Screenshot
+## Screenshots
+
+Admin app with the ability to edit topics and projects
 
 ![Admin-app](assets/screenshoots/app.png)
+
+The final exported site without the admin menu
+
 ![Website](assets/screenshoots/website.png)
 ---
 
