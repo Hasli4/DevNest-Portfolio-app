@@ -1,0 +1,29 @@
+{
+  "name": "portfolio-app",
+  "version": "1.0.0",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "electron .",
+    "dist": "electron-builder --win portable"
+  },
+  "devDependencies": {
+    "electron": "^41.2.0",
+    "electron-builder": "^25.1.8"
+  },
+  "build": {
+    "appId": "com.yourname.portfolioapp",
+    "productName": "Portfolio App",
+    "icon": "build/icon.ico",
+    "directories": {
+      "output": "dist"
+    },
+    "files": [
+      "src/**/*",
+      "package.json"
+    ],
+    "win": {
+      "target": "portable",
+      "artifactName": "${productName}-${version}-portable.${ext}"
+    }
+  }
+}
