@@ -5,7 +5,7 @@
 
 [Русский](README.md) | [English](README.en.md)
 
-[⬇ Скачать portable-версию](https://github.com/OWNER/REPO/releases/latest/download/YOUR_RELEASE_ASSET.exe)
+[⬇ Скачать portable-версию](https://github.com/Hasli4/portfolio-app/releases/tag/v1.0.0)
 
 ---
 

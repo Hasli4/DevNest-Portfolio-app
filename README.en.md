@@ -5,7 +5,7 @@ Users can add themes, projects, descriptions, links, images, and a profile photo
 
 [Русский](README.md) | [English](README.en.md)
 
-[⬇ Download portable version](https://github.com/OWNER/REPO/releases/latest/download/YOUR_RELEASE_ASSET.exe)
+[⬇ Download portable version](https://github.com/Hasli4/portfolio-app/releases/tag/v1.0.0)
 
 ---
 
