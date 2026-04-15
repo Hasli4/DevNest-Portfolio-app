@@ -36,13 +36,9 @@ Portfolio App — это локальное приложение для быст
 
 ---
 
-## Скриншоты
+## Скриншот
 
-
-
-<p align="center">
-  <img src="assets/screenshots/app.png" width="100%" />
-</p>
+![App Screenshot](assets/screenshots/app.png)
 
 ---
 

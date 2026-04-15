@@ -36,14 +36,9 @@ This project is useful for:
 
 ---
 
-## Screenshots
+## Screenshot
 
-Add screenshots of the app and the exported website here.
-
-```text
-assets/screenshots/app.png
-````
-
+![App Screenshot](assets/screenshots/app.png)
 ---
 
 ## Tech stack
@@ -149,8 +144,8 @@ For commercial licensing, please contact the author.
 
 ## Contact
 
-* GitHub: `@yourname`
-* Email: `your.email@example.com`
+* GitHub: `@ig_mizyovv`
+* Email: `ig.mizyov@gmail.com`
 
 ```
 
