@@ -5,7 +5,7 @@
 
 [Русский](README.md) | [English](README.en.md)
 
-[⬇ Скачать portable-версию](https://github.com/Hasli4/portfolio-app/releases/tag/v1.0.0)
+[⬇ Скачать portable-версию](https://github.com/Hasli4/portfolio-app/releases/tag/v1.1.0)
 | 
 [Подробная инструкция по использованию](https://docs.google.com/presentation/d/1NTFoW714LjP0DslB7Ho2XGklaXy732QH1bJjbrQtODo/edit?usp=sharing)
 
