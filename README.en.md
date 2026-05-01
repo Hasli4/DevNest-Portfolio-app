@@ -7,7 +7,7 @@ Users can add themes, projects, descriptions, links, images, and a profile photo
 
 [⬇ Download portable version](https://github.com/Hasli4/DevNest-Portfolio-app/releases)
 |
-[Detailed instructions for use](https://docs.google.com/presentation/d/1CeZ0yqNTR-VmprznfKNu9_u4ur_8REItJUeS0r4s7bw/edit?usp=sharing)
+[Website with description and installation instructions](https://hasli4.github.io/DevNest/index.html)
 ---
 
 ## About the project
