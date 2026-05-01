@@ -7,7 +7,7 @@
 
 [⬇ Скачать portable-версию](https://github.com/Hasli4/DevNest-Portfolio-app/releases)
 | 
-[Подробная инструкция по использованию](https://docs.google.com/presentation/d/1NTFoW714LjP0DslB7Ho2XGklaXy732QH1bJjbrQtODo/edit?usp=sharing)
+[Веб-сайт с описанием и инструкцией по установке](https://hasli4.github.io/DevNest/index.html)
 
 ---
 
